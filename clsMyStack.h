@@ -1,6 +1,6 @@
 #pragma once
 #include <iostream>
-#include "../project-2/clsMyQueue.h"
+#include "clsMyQueue.h" // You can get this lib from https://github.com/yacineragueb/MyQueue-lib-cpp
 
 using namespace std;
 
